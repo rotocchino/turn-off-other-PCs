@@ -1,4 +1,4 @@
-Per spegnere il pc delle altre persone devi aprere spengi, devi cliccare su aggiungi e devi aggiungere l'ip della vittima
+Per spegnere il pc delle altre persone devi aprire "spengi.exe", devi cliccare su aggiungi e devi aggiungere l'ip della vittima
 -------------------------------------
 code: 2022
 -------------------------------------
